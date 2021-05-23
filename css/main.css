@@ -1,0 +1,14 @@
+.flex-nav{
+    display:flex;
+    justify-content: flex-end;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    height: 48px;
+    align-items: center;
+}
+#gapps-icon{
+    height: 24px;
+    width:24px;
+    
+}
