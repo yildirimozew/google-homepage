@@ -6,9 +6,42 @@
     font-weight: 400;
     height: 48px;
     align-items: center;
+    padding: 6px;
+}
+.navbar-item{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.87)
+}
+.navbar-item:hover{
+    text-decoration: underline;
+}
+.logo{
+    height:290px;
+    margin:0px 0px 20px 0px;
+}
+#search-bar{
+    width:584px;
+    height:46px;
+    border: 1px solid rgb(223, 225, 229);
+    margin:auto;
 }
 #gapps-icon{
     height: 24px;
     width:24px;
-    
+}
+#icon2{
+    padding: 0 25px 0 15px;
+}
+#profile-photo{
+    width:32px;
+    height:32px;
+    border-radius:50%;
+    padding:8px;
+    margin:8px;
+}
+#google-logo{
+    margin:auto;
+    display:block;
+    position:relative;
+    top: 198px;
 }
