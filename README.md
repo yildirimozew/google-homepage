@@ -1,1 +1,1 @@
-Trying to create a Google Homepage Clone on TheOdinProject.
+Created a Google Homepage Clone on TheOdinProject.
